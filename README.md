@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+TekNukViewTool::Renderer.copyright 'TekNuk', 'All rights reserved'
+```
 
 ## Development
 
